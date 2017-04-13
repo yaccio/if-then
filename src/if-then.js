@@ -1,5 +1,3 @@
-function ifThen(src) {
-    return ""
-}
+const ifThen = src => ""
 
 module.exports = ifThen
