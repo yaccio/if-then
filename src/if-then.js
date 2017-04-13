@@ -1,3 +1,3 @@
-const ifThen = src => ""
+const ifThen = src => src
 
 module.exports = ifThen
