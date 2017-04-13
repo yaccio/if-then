@@ -1,0 +1,12 @@
+{
+  "name": "if-then",
+  "version": "0.0.1",
+  "description": "If expressions for JavaScript",
+  "main": "index.js",
+  "repository": "git@github.com:yaccio/if-then.git",
+  "author": "Martin Bech <martin@yacc.io>, Lasse Borly <lasse@yacc.io>",
+  "license": "MIT",
+  "scripts": {
+      "test": "node test/index.js"
+  }
+}
